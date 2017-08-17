@@ -1,0 +1,217 @@
+body
+{
+    background-image: url("App_Data/Background.png");
+}
+
+#Header
+{
+    height: 100px;
+    width: 1000px;
+}
+
+#Menu
+{
+    width: 1000px;
+    height: 70px;
+    background-color: sandybrown;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-left-color: darkgray;
+    border-right-color: darkgray;
+    border-top-color: darkgray;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+#Menu ul
+{
+    list-style-type: none;
+}
+
+#Menu ul li
+{
+    display: block;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+}
+
+#menu ul li a
+{
+    text-decoration: none;
+    font-family: "";
+    font-size: 20px;
+    font-style: oblique;
+    color: #000000;
+}
+
+#menu ul li a:hover
+{
+    text-decoration: none;
+    font-family: "";
+    font-size: 20px;
+    font-style: oblique;
+    color: #ffffff;
+}
+
+#Content
+{
+    width: 1000px;
+    height: 700px;
+    background-color: bisque;
+
+    border-right-color: darkgrey;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-left-color: darkgrey;
+    border-left-style: solid;
+    border-left-width: 1px;
+}
+
+.Right
+{
+    float: right;
+}
+
+.Right_Top
+{
+    background-color: chocolate;
+    width: 290px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-top-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-top-style:  solid;
+    border-right-style: solid;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+    margin-right: 5px;
+}
+
+.Right_Middle
+{
+    background-color: white;
+    width: 290px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-right-style: solid;
+
+    margin-right: 5px;
+}
+
+.Right_Bottom
+{
+    background-color: chocolate;
+    width: 290px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-top-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-top-style:  solid;
+    border-right-style: solid;
+
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    margin-right: 5px;
+}
+
+.Left
+{
+    float: Left;
+}
+
+.Left_Top
+{
+    background-color: chocolate;
+    width: 690px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-top-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-top-style:  solid;
+    border-right-style: solid;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.Left_Middle
+{
+    background-color: white;
+    width: 690px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-right-style: solid;
+}
+
+.Left_Bottom
+{
+    background-color: chocolate;
+    width: 690px;
+    height: 50px;
+
+    border-left-width: 1px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-left-color: darkgray;
+    border-top-color: darkgray;
+    border-right-color: darkgray;
+    border-left-style: solid;
+    border-top-style:  solid;
+    border-right-style: solid;
+
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+}
+
+#footer
+{
+    width: 1000px;
+    height: 70px;
+    background-color: sandybrown;
+    border-left-style: solid;
+    border-right-style: solid;
+    border-top-style: solid;
+    border-left-color: darkgray;
+    border-right-color: darkgray;
+    border-top-color: darkgray;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
